@@ -10,7 +10,7 @@
 
 You can check my portfolio here [My Portfolio]
 
-![Screenshot (604)](https://user-images.githubusercontent.com/81930207/134061807-ec590fb4-93fe-49ba-87ef-2f29ac71147d.png)
+![Screenshot (604)]
 
 
 
