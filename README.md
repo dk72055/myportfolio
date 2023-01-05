@@ -4,8 +4,8 @@
 
 ### Here is the list of all above mentioned projects: ###
 
-*calculator
-*e-convo
+#calculator
+##e-convo ##
 
 
 You can check my portfolio here [My Portfolio]
